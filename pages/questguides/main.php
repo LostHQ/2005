@@ -42,6 +42,7 @@ $questlist = array(
     "legends" => ["Legends Quest", 1],
     "lostcity" => ["Lost City", 1],
     "merlinscrystal" => ["Merlin's Crystal", 1],
+    "monkeymadness" => ["Monkey Madness", 1],
     "monksfriend" => ["Monk's Friend", 1],
     "murdermystery" => ["Murder Mystery", 1],
     "naturespirit" => ["Nature Spirit", 1],
