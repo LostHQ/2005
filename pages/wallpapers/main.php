@@ -13,7 +13,41 @@ function getPageContent() {
     <div class="lightbox-overlay" id="lightbox" onclick="closeLightbox()">
         <img id="lightbox-img" src="">
     </div>
-    <!-- <h3>2004</h3> use later when we're in 2005 -->
+    <h3>2005</h3>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="img/rswallpapers/2005/w7_800x600.jpg" width="150" onclick="openLightbox(this.src)"><br>
+                </td>
+                <td width="5"></td>
+                <td align="left">
+                    <b>Iban's Temple</b><br>
+                    Deep in the Underground Pass you can find a temple devoted to the once dead evil warrior: Iban.<br><br>
+                    <a href="img/rswallpapers/2004/w7_800x600.jpg" download>800x600</a> | 
+                    <a href="img/rswallpapers/2004/w7_1024x768.jpg" download>1024x768</a> | 
+                    <a href="img/rswallpapers/2004/w7_1280x1024.jpg" download>1280x1024</a> | 
+                    <a href="img/rswallpapers/2004/w7_1600x1200.jpg" download>1600x1200</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="img/rswallpapers/2005/w6_800x600.jpg" width="150" onclick="openLightbox(this.src)"><br>
+                </td>
+                <td width="5"></td>
+                <td align="left">
+                    <b>Bob's Last Stand</b><br>
+                    Bob the Jagex cat faces off against the Kalphites - luckily everyone knows cats have 9 lives, so he's sure to be okay.<br><br>
+                    <a href="img/rswallpapers/2004/w6_800x600.jpg" download>800x600</a> | 
+                    <a href="img/rswallpapers/2004/w6_1024x768.jpg" download>1024x768</a> | 
+                    <a href="img/rswallpapers/2004/w6_1280x1024.jpg" download>1280x1024</a> | 
+                    <a href="img/rswallpapers/2004/w6_1600x1200.jpg" download>1600x1200</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3>2004</h3>
     <table>
         <tbody>
             <tr>
