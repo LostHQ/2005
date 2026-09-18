@@ -40,7 +40,7 @@ function getQuestGuide($questName, $questComplete) { return <<<HTML
     </ul>
     <b>Starting Location:</b> Speak to King Narnode at The Grand Tree
     <br><br>
-    <b>Reward:</b> 3 Quest points, 10,000gp, 3 Diamonds; the right to wield the Dragon scimitar; talk to Daero to get training in Strength and Hitpoints OR Attack and Defense. You get 35,000 CP in the 2 skills of your choice and 20,000 CP in the other 2 skills you didn't choose.
+    <b>Reward:</b> 3 Quest points, 10,000gp, 3 Diamonds; <!--the right to wield the Dragon scimitar; -->talk to Daero to get training in Strength and Hitpoints OR Attack and Defense. You get 35,000 CP in the 2 skills of your choice and 20,000 CP in the other 2 skills you didn't choose.
 </div>
 <h3>Instructions:</h3>
 <br>
