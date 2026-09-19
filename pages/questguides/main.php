@@ -57,6 +57,7 @@ $questlist = array(
     "shilovillage" => ["Shilo Village", 1],
     "templeofikov" => ["Temple of Ikov", 1],
     "tbwt" => ["Tai Bwo Wannai Trio", 1],
+    "throneofmiscellania" => ["Throne of Miscellania", 1],
     "touristtrap" => ["The Tourist Trap", 1],
     "treegnomevillage" => ["Tree Gnome Village", 1],
     "trollstronghold" => ["Troll Stronghold", 1],
