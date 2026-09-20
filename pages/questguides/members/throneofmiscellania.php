@@ -8,7 +8,7 @@ function getQuestGuide($questName, $questComplete) { return <<<HTML
     <br><br>
     The residents of Miscellania Castle are widely regarded as some of the hardest workers ever seen. A well respected Monarch should have no problems in convincing his subjects to collect raw materials for "royal inspection", though gaining and maintaining that respect could prove another challenge in itself.
     <br><br>
-    <b>Difficulty: <font color="Red">Experienced</font></b>
+    <b>Difficulty: <font color="red">Experienced</font></b>
     <br><br>
     <b>Length: <font color="green">Short</font></b>
     <br><br>
@@ -32,10 +32,10 @@ function getQuestGuide($questName, $questComplete) { return <<<HTML
         <li><div data-progress>At least one of the following to gain favour during the quest:</div></li>
         <ul style="list-style-type: none;">
             <li><div data-progress>1,875gp to buy flowers from Flower Girl</div></li>
-            <li><div data-progress>An axe and Woodcutting 45 Woodcutting to cut maple trees</div></li>
-            <li><div data-progress>A rake and Farming 10 Farming to rake flax</div></li>
-            <li><div data-progress>A pickaxe and Mining 35 Mining to mine coal</div></li>
-            <li><div data-progress>A harpoon or lobster pot and Fishing 35 Fishing to fish tuna, lobsters or swordfish</div></li>
+            <li><div data-progress>An axe and 45 Woodcutting to cut maple trees</div></li>
+            <li><div data-progress>A rake and 10 Farming to rake flax</div></li>
+            <li><div data-progress>A pickaxe and 35 Mining to mine coal</div></li>
+            <li><div data-progress>A harpoon or lobster pot and 35 Fishing to fish tuna, lobsters or swordfish</div></li>
         </ul>
         <li><div data-progress>If seeking the Prince's trust: a cake (chocolate cakes work too)</div></li>
         <li><div data-progress>If seeking the Princess's trust: a shortbow or longbow</div></li>

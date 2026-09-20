@@ -34,6 +34,7 @@ $questlist = array(
     "fremtrials" => ["The Fremennik Trials", 1],
     "gertrudescat" => ["Gertrude's Cat", 1],
     "grandtree" => ["The Grand Tree", 1],
+    "hauntedmine" => ["Haunted Mine", 1],
     "hazeelcult" => ["Hazeel Cult", 1],
     "holygrail" => ["Holy Grail", 1],
     "horror" => ["Horror from the Deep", 1],
